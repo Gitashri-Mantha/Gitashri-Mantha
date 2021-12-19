@@ -9,7 +9,7 @@
 
 - 💬 Ask me about ...  html , css , python
 - 
-- 📫 How to reach me: ... Twitter- @notwokegita
+- 📫 How to reach me: ... Twitter- https://twitter.com/notwokegita
  
 - ⚡ Fun fact: ...I hate bugs! XD
 -->
